@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+plotly
+google-genai
+python-dotenv
+requests
+psycopg2-binary
