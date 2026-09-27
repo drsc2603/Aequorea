@@ -1,0 +1,6 @@
+.env
+keys.txt
+keys.gitignore
+__pycache__/
+*.pyc
+.DS_Store
